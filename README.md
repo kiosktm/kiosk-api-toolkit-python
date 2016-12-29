@@ -1,4 +1,4 @@
-# Kiosk API Toolkit for PHP
+# Kiosk API Toolkit for Python
 
 The Kiosk API Toolkit for PHP is designed to allow Lead Vendors for Kiosk 
 to be able to submit Prospect records to the Kiosk Prospect API.  The toolkit 
